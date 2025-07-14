@@ -26,13 +26,22 @@ The task is provided in plain language, and intelligent agents collaborate to co
 🛠 Tech Stack
 
 💬 LLM: [Groq API](https://groq.com/) (LLaMA3)  
+
 🧠 Framework: LangChain
+
 🎯 Vector Store: FAISS
+
 🔎 Embeddings: HuggingFace (MiniLM)
+
 📚 PDF Processing: PyPDF2, pdfplumber
+
 📊 Visualization: Plotly, Matplotlib
+
 🌐 Web UI: Streamlit
+
 🌍 Deployment: Hugging Face Spaces / GitHub
+
+
 ⚙️ Components Breakdown
 
 | Component               | Description                                     |
